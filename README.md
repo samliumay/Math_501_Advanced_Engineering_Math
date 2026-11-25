@@ -17,15 +17,16 @@ Open the folder as a vault in Obsidian to see the slide images and the folded an
 
 | Lecture | Topic | Check questions |
 |---|---|---|
-| L01 | [First order differential equations](<lessons/MATH501 L01 - First order differential equations.md>) | not yet |
-| L02 | [Higher order linear ODEs](<lessons/MATH501 L02 - Higher order linear ODEs.md>) | not yet |
-| L03 | [The Laplace transform](<lessons/MATH501 L03 - The Laplace transform.md>) | not yet |
-| L04 | [Series solutions of ODEs](<lessons/MATH501 L04 - Series solutions of ODEs.md>) | not yet |
-| L05 | [Matrices and determinants](<lessons/MATH501 L05 - Matrices and determinants.md>) | not yet |
-| L06 | [Eigenvalues and eigenvectors](<lessons/MATH501 L06 - Eigenvalues and eigenvectors.md>) | not yet |
-| L07 | [Linear systems of ODEs](<lessons/MATH501 L07 - Linear systems of ODEs.md>) | not yet |
+| L01 | [First order differential equations](<lessons/MATH501 L01 - First order differential equations.md>) | 22 |
+| L02 | [Higher order linear ODEs](<lessons/MATH501 L02 - Higher order linear ODEs.md>) | 25 |
+| L03 | [The Laplace transform](<lessons/MATH501 L03 - The Laplace transform.md>) | 35 |
+| L04 | [Series solutions of ODEs](<lessons/MATH501 L04 - Series solutions of ODEs.md>) | 19 |
+| L05 | [Matrices and determinants](<lessons/MATH501 L05 - Matrices and determinants.md>) | 17 |
+| L06 | [Eigenvalues and eigenvectors](<lessons/MATH501 L06 - Eigenvalues and eigenvectors.md>) | 18 |
+| L07 | [Linear systems of ODEs](<lessons/MATH501 L07 - Linear systems of ODEs.md>) | 20 |
+| L08 | [Laplace's equation](<lessons/MATH501 L08 - Laplace's equation.md>) | 23 |
 
-7 lessons, 0 check questions, 122 slide images.
+8 lessons, 179 check questions, 122 slide images.
 
 ## Folders
 
