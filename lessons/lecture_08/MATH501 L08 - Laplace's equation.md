@@ -743,6 +743,7 @@ General rule: a zero condition at the near end $x=0$ gives $\sinh(ax)$. A zero c
 - Course index, quizzes and labs: [[MATH501 Home]]
 - Previous: [[MATH501 L07 - Linear systems of ODEs]]
 - Related: the characteristic equation and the three root cases are in [[MATH501 L02 - Higher order linear ODEs]]
+- Quiz: [[MATH501 L08 - Laplace's equation - quiz]]
 - Full step-by-step notes (PDF): [MATH501_Lecture_08_Laplace_Equation.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/math_501/lecture_notes/lecture_08/MATH501_Lecture_08_Laplace_Equation.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lecture_notes/lecture_08/MATH501_Lecture_08_Laplace_Equation.pdf`
 - Original chapter notes (PDF): [Math501 Chapter 8.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/math_501/lectures/lecture_08/Math501%20Chapter%208.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lectures/lecture_08/Math501 Chapter 8.pdf`
 
