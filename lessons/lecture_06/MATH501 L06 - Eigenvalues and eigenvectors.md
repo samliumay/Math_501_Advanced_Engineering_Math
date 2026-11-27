@@ -379,5 +379,6 @@ If $\lambda$ is an eigenvalue of $A$ with eigenvector $v$, then $\lambda^k$ is a
 - Previous: [[MATH501 L05 - Matrices and determinants]]. Next: [[MATH501 L07 - Linear systems of ODEs]]
 - Full step-by-step notes (PDF): [MATH501_Lecture_06_Eigenvalues_Eigenvectors.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/math_501/lecture_notes/lecture_06/MATH501_Lecture_06_Eigenvalues_Eigenvectors.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lecture_notes/lecture_06/MATH501_Lecture_06_Eigenvalues_Eigenvectors.pdf`
 - Original chapter notes (PDF): [Math501 Chapter 6.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/math_501/lectures/lecture_06/Math501%20Chapter%206.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lectures/lecture_06/Math501 Chapter 6.pdf`
+- Quiz: [[MATH501 L06 - Eigenvalues and eigenvectors - quiz]]
 
 Slides not embedded: none.
