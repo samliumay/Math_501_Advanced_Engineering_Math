@@ -533,5 +533,6 @@ $$y_2=y_1\ln x+\frac2x-\frac34+\frac{11}{108}x-\frac{25}{3456}x^2+\frac{137}{432
 - Previous: [[MATH501 L03 - The Laplace transform]]. Next: [[MATH501 L05 - Matrices and determinants]]
 - Full step-by-step notes (PDF): [MATH501_Lecture_04_Series_Solutions.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/math_501/lecture_notes/lecture_04/MATH501_Lecture_04_Series_Solutions.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lecture_notes/lecture_04/MATH501_Lecture_04_Series_Solutions.pdf`
 - Original chapter notes (PDF): [Math501 Chapter 4.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/math_501/lectures/lecture_04/Math501%20Chapter%204.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lectures/lecture_04/Math501 Chapter 4.pdf`
+- Quiz: [[MATH501 L04 - Series solutions of ODEs - quiz]]
 
 Slides not embedded: none.
