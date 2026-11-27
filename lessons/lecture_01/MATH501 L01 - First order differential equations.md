@@ -488,5 +488,6 @@ With $y'=\phi'-\dfrac{u'}{u^2}$ the terms without $u$ cancel. Multiply by $-u^2$
 - Next lecture: [[MATH501 L02 - Higher order linear ODEs]]
 - Full step-by-step notes (PDF): [MATH501_Lecture_01_First_Order_ODEs.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/math_501/lecture_notes/lecture_01/MATH501_Lecture_01_First_Order_ODEs.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lecture_notes/lecture_01/MATH501_Lecture_01_First_Order_ODEs.pdf`
 - Original chapter notes (PDF): [Math501 Chapter 1.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/math_501/lectures/lecture_01/Math501%20Chapter%201.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lectures/lecture_01/Math501 Chapter 1.pdf`
+- Quiz: [[MATH501 L01 - First order differential equations - quiz]]
 
 Slides not embedded: 1 (title page).
