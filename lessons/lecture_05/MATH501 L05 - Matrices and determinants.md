@@ -346,5 +346,6 @@ Row reduction: bring the matrix to upper triangular form, track the swaps and th
 - Previous: [[MATH501 L04 - Series solutions of ODEs]]. Next: [[MATH501 L06 - Eigenvalues and eigenvectors]]
 - Full step-by-step notes (PDF): [MATH501_Lecture_05_Matrices_Determinants.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/math_501/lecture_notes/lecture_05/MATH501_Lecture_05_Matrices_Determinants.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lecture_notes/lecture_05/MATH501_Lecture_05_Matrices_Determinants.pdf`
 - Original chapter notes (PDF): [Math501 Chapter 5.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/math_501/lectures/lecture_05/Math501%20Chapter%205.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lectures/lecture_05/Math501 Chapter 5.pdf`
+- Quiz: [[MATH501 L05 - Matrices and determinants - quiz]]
 
 Slides not embedded: none.
