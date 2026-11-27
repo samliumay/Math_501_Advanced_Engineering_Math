@@ -10,7 +10,7 @@ Exams are worked problems (ODEs, Laplace transform, series solutions, linear alg
 ## Sources, in priority order
 
 1. **Lesson note** (my notes, slide by slide, with 25 check questions and their answers): `/home/umaysamli/Desktop/university/ms/semester_2/math_501/MATH_501_Advanced_Engineering_Math/lessons/lecture_02/MATH501 L02 - Higher order linear ODEs.md`
-2. **Quiz note:** not written yet for this lesson. Use the check questions of the lesson note.
+2. **Quiz note** (25 multiple-choice questions, one per check question, each with a folded answer that explains every option): `/home/umaysamli/Desktop/university/ms/semester_2/math_501/MATH_501_Advanced_Engineering_Math/lessons/lecture_02/MATH501 L02 - Higher order linear ODEs - quiz.md`
 3. **Slide images** (one jpg per slide; the lesson note embeds them as `![[<deck>_pNNN.jpg]]`): `/home/umaysamli/Desktop/university/ms/semester_2/math_501/MATH_501_Advanced_Engineering_Math/others/slides/math501_lecture_02_math501_chapter_2`
 4. **Original slides (PDF):** `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lectures/lecture_02/Math501 Chapter 2.pdf`
 5. **Full step-by-step notes:** `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lecture_notes/lecture_02/MATH501_Lecture_02_Higher_Order_Linear_ODEs.pdf` (LaTeX source: `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lecture_notes/lecture_02/lecture_02.tex`)

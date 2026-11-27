@@ -19,14 +19,14 @@ Open the folder as a vault in Obsidian to see the slide images and the folded an
 
 | Lecture | Topic | Check questions | Multiple choice |
 |---|---|---|---|
-| L01 | [First order differential equations](<lessons/lecture_01/MATH501 L01 - First order differential equations.md>) | 22 | not yet |
-| L02 | [Higher order linear ODEs](<lessons/lecture_02/MATH501 L02 - Higher order linear ODEs.md>) | 25 | not yet |
-| L03 | [The Laplace transform](<lessons/lecture_03/MATH501 L03 - The Laplace transform.md>) | 35 | not yet |
-| L04 | [Series solutions of ODEs](<lessons/lecture_04/MATH501 L04 - Series solutions of ODEs.md>) | 19 | not yet |
-| L05 | [Matrices and determinants](<lessons/lecture_05/MATH501 L05 - Matrices and determinants.md>) | 17 | not yet |
-| L06 | [Eigenvalues and eigenvectors](<lessons/lecture_06/MATH501 L06 - Eigenvalues and eigenvectors.md>) | 18 | not yet |
-| L07 | [Linear systems of ODEs](<lessons/lecture_07/MATH501 L07 - Linear systems of ODEs.md>) | 20 | not yet |
-| L08 | [Laplace's equation](<lessons/lecture_08/MATH501 L08 - Laplace's equation.md>) | 23 | not yet |
+| L01 | [First order differential equations](<lessons/lecture_01/MATH501 L01 - First order differential equations.md>) | 22 | [quiz](<lessons/lecture_01/MATH501 L01 - First order differential equations - quiz.md>) |
+| L02 | [Higher order linear ODEs](<lessons/lecture_02/MATH501 L02 - Higher order linear ODEs.md>) | 25 | [quiz](<lessons/lecture_02/MATH501 L02 - Higher order linear ODEs - quiz.md>) |
+| L03 | [The Laplace transform](<lessons/lecture_03/MATH501 L03 - The Laplace transform.md>) | 35 | [quiz](<lessons/lecture_03/MATH501 L03 - The Laplace transform - quiz.md>) |
+| L04 | [Series solutions of ODEs](<lessons/lecture_04/MATH501 L04 - Series solutions of ODEs.md>) | 19 | [quiz](<lessons/lecture_04/MATH501 L04 - Series solutions of ODEs - quiz.md>) |
+| L05 | [Matrices and determinants](<lessons/lecture_05/MATH501 L05 - Matrices and determinants.md>) | 17 | [quiz](<lessons/lecture_05/MATH501 L05 - Matrices and determinants - quiz.md>) |
+| L06 | [Eigenvalues and eigenvectors](<lessons/lecture_06/MATH501 L06 - Eigenvalues and eigenvectors.md>) | 18 | [quiz](<lessons/lecture_06/MATH501 L06 - Eigenvalues and eigenvectors - quiz.md>) |
+| L07 | [Linear systems of ODEs](<lessons/lecture_07/MATH501 L07 - Linear systems of ODEs.md>) | 20 | [quiz](<lessons/lecture_07/MATH501 L07 - Linear systems of ODEs - quiz.md>) |
+| L08 | [Laplace's equation](<lessons/lecture_08/MATH501 L08 - Laplace's equation.md>) | 23 | [quiz](<lessons/lecture_08/MATH501 L08 - Laplace's equation - quiz.md>) |
 
 8 lessons, 179 check questions, 122 slide images.
 
