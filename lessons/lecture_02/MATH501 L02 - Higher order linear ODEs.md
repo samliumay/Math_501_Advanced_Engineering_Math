@@ -590,5 +590,6 @@ $$\lambda^2+(A-1)\lambda+B=0 .$$
 - Previous: [[MATH501 L01 - First order differential equations]]. Next: [[MATH501 L03 - The Laplace transform]]
 - Full step-by-step notes (PDF): [MATH501_Lecture_02_Higher_Order_Linear_ODEs.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/math_501/lecture_notes/lecture_02/MATH501_Lecture_02_Higher_Order_Linear_ODEs.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lecture_notes/lecture_02/MATH501_Lecture_02_Higher_Order_Linear_ODEs.pdf`
 - Original chapter notes (PDF): [Math501 Chapter 2.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/math_501/lectures/lecture_02/Math501%20Chapter%202.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lectures/lecture_02/Math501 Chapter 2.pdf`
+- Quiz: [[MATH501 L02 - Higher order linear ODEs - quiz]]
 
 Slides not embedded: none.
