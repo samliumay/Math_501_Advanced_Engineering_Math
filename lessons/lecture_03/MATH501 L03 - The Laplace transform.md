@@ -610,5 +610,6 @@ $$\mathcal L[\delta(t-a)]=e^{-as},\qquad\mathcal L[\delta(t)]=1.$$
 - Previous: [[MATH501 L02 - Higher order linear ODEs]]. Next: [[MATH501 L04 - Series solutions of ODEs]]
 - Full step-by-step notes (PDF): [MATH501_Lecture_03_Laplace_Transform.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/math_501/lecture_notes/lecture_03/MATH501_Lecture_03_Laplace_Transform.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lecture_notes/lecture_03/MATH501_Lecture_03_Laplace_Transform.pdf`
 - Original chapter notes (PDF): [Math501 Chapter 3.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/math_501/lectures/lecture_03/Math501%20Chapter%203.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lectures/lecture_03/Math501 Chapter 3.pdf`
+- Quiz: [[MATH501 L03 - The Laplace transform - quiz]]
 
 Slides not embedded: none.
