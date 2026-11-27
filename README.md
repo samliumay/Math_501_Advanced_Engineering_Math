@@ -34,7 +34,6 @@ Open the folder as a vault in Obsidian to see the slide images and the folded an
 
 - `lessons/lecture_NN/`: the lesson note of a lecture and its multiple-choice quiz.
 - `others/slides/`: the slide images the notes embed.
-- `learning_agent/`: one brief per lesson for a teacher agent (which files to read, known slide errors, how to use the questions).
 - `labs/`, `quizzes/` (for the real course quizzes), `other_resources/`: empty for now.
 
 ## Note
