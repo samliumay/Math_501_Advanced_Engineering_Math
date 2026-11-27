@@ -517,5 +517,6 @@ Steps: (1) solve the homogeneous system and build $\Phi$, (2) compute $\Phi^{-1}
 - Related: systems solved with the Laplace transform are in [[MATH501 L03 - The Laplace transform]]
 - Full step-by-step notes (PDF): [MATH501_Lecture_07_Linear_Systems.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/math_501/lecture_notes/lecture_07/MATH501_Lecture_07_Linear_Systems.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lecture_notes/lecture_07/MATH501_Lecture_07_Linear_Systems.pdf`
 - Original chapter notes (PDF): [Math501 Chapter 7.pdf](file:///home/umaysamli/Desktop/university/ms/semester_2/math_501/lectures/lecture_07/Math501%20Chapter%207.pdf) `/home/umaysamli/Desktop/university/ms/semester_2/math_501/lectures/lecture_07/Math501 Chapter 7.pdf`
+- Quiz: [[MATH501 L07 - Linear systems of ODEs - quiz]]
 
 Slides not embedded: none.
